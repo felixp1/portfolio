@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-Information Technology graduate with hands-on experience in computer networking, IT support, network troubleshooting, and data analytics. Practical exposure to routing and switching environments, technical assistance, and network security testing. Strong interest in cloud computing, cybersecurity, artificial intelligence, and emerging technologies.
+Information Technology graduate with hands-on experience in computer networking, IT support, network troubleshooting, and data analytics. Practical exposure to routing and switching environments, technical assistance, and network security testing. Strong interest in cloud computing, artificial intelligence and emerging technologies.
 
 ---
 
